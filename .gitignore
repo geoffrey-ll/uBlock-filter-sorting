@@ -1,0 +1,23 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+message_commit.txt
+
+# Fichiers d'IDE (PyCharm, VS Code, etc.)
+.idea/
+.vscode/
+
+# Fichiers de log
+*.log
+
+# Fichiers temporaires
+*.swp
+*.bak
+
+# Fichiers de configuration personnels
+*.DS_Store
