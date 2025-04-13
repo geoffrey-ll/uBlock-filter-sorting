@@ -1,4 +1,4 @@
-# uBlock Filters Cleaner
+# uBlock Filters Sorter
 
 [🇬🇧 English version](#-english-version) | [🇫🇷 Version française](#-version-française)
 
