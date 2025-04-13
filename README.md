@@ -1,10 +1,14 @@
-# uBlock Filters Cleaner
+<p align="right">
+  <a href="#-english-version">🇬🇧 English</a> | <a href="#-version-française">🇫🇷 Français</a>
+</p>
 
-[🇬🇧 English version](#-english-version) | [🇫🇷 Version française](#-version-française)
+# uBlock Filters Sorter
 
 ---
 
 ## 🇬🇧 English Version
+
+Python script to clean, deduplicate and alphabetically sort custom filters for uBlock Origin.
 
 ### 📌 Features
 
@@ -75,6 +79,8 @@ youtube.com##.ad-banner
 ---
 
 ## 🇫🇷 Version Française
+
+Script Python pour nettoyer, dédupliquer et trier des filtres personnalisés pour uBlock Origin.
 
 ### 📌 Fonctionnalitées
 
