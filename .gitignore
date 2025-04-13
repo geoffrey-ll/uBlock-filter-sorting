@@ -6,7 +6,6 @@ __pycache__/
 # Environnements virtuels
 venv/
 env/
-message_commit.txt
 
 # Fichiers d'IDE (PyCharm, VS Code, etc.)
 .idea/
@@ -21,3 +20,8 @@ message_commit.txt
 
 # Fichiers de configuration personnels
 *.DS_Store
+message_commit.txt
+
+# Fichiers de project
+uBlock_filters.txt
+sorted_uBlock_filters.txt
